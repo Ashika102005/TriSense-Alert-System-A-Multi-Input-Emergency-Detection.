@@ -1,0 +1,1 @@
+# TriSense-Alert-System-A-Multi-Input-Emergency-Detection.
